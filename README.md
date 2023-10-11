@@ -13,8 +13,8 @@ Because spiders create **web**s...
 ## Roadmap
 
 - [ ] no non-reproducible dependencies. Don't use NPM packages or vendor them (make sure they match the licensing).
-- [ ] support TypeScript always.
-- [ ] statically generate HTML pages from React/Preact (or similar JSX) templating, including composable components.
+- [ ] support Deno TypeScript and TSX always. This includes file imports and API.
+- [ ] statically generate HTML pages from React/Preact (or similar TSX) templating, including composable components.
 - [ ] generate HTML files based on the filesystem structure, similar to [NextJS's pages router](https://nextjs.org/docs/pages/building-your-application/routing).
 - [ ] support FastCGI via PHP files.
 - [ ] create a live-reloading web server.
