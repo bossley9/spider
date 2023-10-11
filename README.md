@@ -2,6 +2,10 @@
 
 A static site generator written in Deno TypeScript.
 
+## Motivation
+
+Most static site generators are bloated, non-reproducible, or ship with a ton of JS. I want a single binary static site generator that can efficiently and effectively compile my website without any code gynastics or hacky scripts.
+
 ## Why "spider"?
 
 Because spiders create **web**s...
